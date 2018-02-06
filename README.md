@@ -1,4 +1,7 @@
 # Walletaid
+
+Does not work with z-addresses
+
 1. Install python 2.7 and select "Add python.exe to Path" during installation.
 2. Download ZIP of this repository.
 3. Unzip walletaid.
